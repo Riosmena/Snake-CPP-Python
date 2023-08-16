@@ -115,6 +115,7 @@ void puntos(){
 
 int main(){
 	
+	system("cls");
 	pintar();
 	gotoxy(xc,yc);printf("%c",4);
 	
